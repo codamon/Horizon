@@ -5,166 +5,367 @@ date: 2026-06-28
 lang: en
 ---
 
-> From 11 items, 8 important content pieces were selected
+> From 46 items, 20 important content pieces were selected
 
 ---
 
-1. [AMD Strix Halo RDMA Cluster Setup Guide](#item-1) ⭐️ 8.0/10
-2. [Fintech Engineering Handbook - Comprehensive Guide to Financial Systems Architecture](#item-2) ⭐️ 8.0/10
-3. [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](#item-3) ⭐️ 7.0/10
-4. [Anonymous GitHub account mass-dropping undisclosed 0-days](#item-4) ⭐️ 6.0/10
-5. [Security Researcher Evilbit Publishes Comprehensive Guide on Choosing Public DNS Resolvers](#item-5) ⭐️ 6.0/10
-6. [Ford's AI Quality Inspection Project Failed Despite Heavy Hiring](#item-6) ⭐️ 6.0/10
-7. [TownSquare: Ephemeral Presence Layer Shows Who's Visiting Your Site](#item-7) ⭐️ 6.0/10
-8. [The Case for Physical Media Ownership Explained](#item-8) ⭐️ 6.0/10
+1. [Three AI Models Survive 500-Day Startup Simulation Test](#item-1) ⭐️ 7.0/10
+2. [Chinese Cybersecurity Firm 360 Develops AI Tools to Compete with Anthropic's Mythos](#item-2) ⭐️ 7.0/10
+3. [VibeThinker-3B Shows Reasoning Compresses Better Than Factual Knowledge](#item-3) ⭐️ 7.0/10
+4. [DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60–85% Over MTP-1](#item-4) ⭐️ 7.0/10
+5. [Silicon Valley AI Execs Who Backed Trump Now Want Regulation](#item-5) ⭐️ 7.0/10
+6. [FBI Warns Russian Hackers Targeting Signal Backup Keys](#item-6) ⭐️ 7.0/10
+7. [Industry Leaders Question Musk's Orbital Data Center Vision](#item-7) ⭐️ 6.0/10
+8. [Apple Vision Pro Executive Joins OpenAI Hardware Team](#item-8) ⭐️ 6.0/10
+9. [Euclid Telescope Releases Most Detailed Milky Way Center Image Yet](#item-9) ⭐️ 6.0/10
+10. [Security Weekly: LastPass Breach, Bolton Plea, Microsoft Takedown](#item-10) ⭐️ 6.0/10
+11. [J.P. Morgan Warns of AI Market Concentration Risks](#item-11) ⭐️ 6.0/10
+12. [The companies most likely to automate your job are now funding a $1 billion program to retrain you](#item-12) ⭐️ 6.0/10
+13. [Building Stable Fable 5 Traces Workflow in Colab with Tool Call Parsing](#item-13) ⭐️ 6.0/10
+14. [Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference](#item-14) ⭐️ 6.0/10
+15. [Instagram wants to make algorithm customisation a core part of the app, not a buried setting](#item-15) ⭐️ 6.0/10
+16. [Salesforce employees are confused about why the company is promoting a competitor inside Slack](#item-16) ⭐️ 6.0/10
+17. [Microsoft Promotes Andreou to Lead Copilot with New Agentic Autopilot Features](#item-17) ⭐️ 6.0/10
+18. [Cloudflare Cuts 1,100 Jobs While Growing Engineering Team by 45%](#item-18) ⭐️ 6.0/10
+19. [A Tokyo startup and a Beijing security firm just launched AI tools to fill the gap Anthropic’s export ban created](#item-19) ⭐️ 6.0/10
+20. [NASA tests an in-orbit refueling device for deep space missions](#item-20) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md) ⭐️ 8.0/10
+## [Three AI Models Survive 500-Day Startup Simulation Test](https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/) ⭐️ 7.0/10
 
-Technical guide for configuring AMD Strix Halo RDMA clusters optimized for AI inference workloads with active community benchmarking and implementation sharing.
+Princeton researchers created CEO-Bench, a simulated startup environment where AI agents must run a software company for 500 days. Only three AI models successfully maintained profitability above their starting capital, while simple rule-based heuristics without any AI outperformed most sophisticated models. This benchmark reveals critical gaps in how current AI models handle long-term strategic planning and business decision-making under uncertainty. The results suggest that even advanced language models struggle with sustained performance when faced with realistic, open-ended problems requiring continuous adaptation. The simulation requires agents to handle pricing strategies, marketing campaigns, budget balancing, and strategic planning all simultaneously. The finding that rule-based heuristics beat most AI models highlights the difficulty of translating general intelligence into specific domain expertise.
 
-hackernews · jakogut · Jun 28, 00:46 · [Discussion](https://news.ycombinator.com/item?id=48703258)
+rss · The Decoder · Jun 28, 10:16
 
-**Tags**: `#distributed-systems`, `#ai-inference`, `#rdma`, `#high-performance-computing`, `#hardware`
+**Background**: CEO-Bench is a novel benchmark that evaluates AI agents' ability to perform long-term planning and decision-making in realistic business environments. Unlike traditional benchmarks that test isolated capabilities, this approach simulates the compounding consequences of decisions over time, similar to how real startups face cascading effects from each strategic choice.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://ceobench.com/">ceobench.com CEO-Bench</a></li>
+<li><a href="https://aidailypost.com/news/ceobench-tests-ai-agents-by-running-simulated-startup-500-days">aidailypost.com › news › ceobench-tests-ai-agents-by-running CEO‑Bench tests AI agents by running a simulated startup...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Agents`, `#Startup Simulation`, `#Princeton Research`, `#AI Evaluation`
 
 ---
 
 <a id="item-2"></a>
-## [Fintech Engineering Handbook - Comprehensive Guide to Financial Systems Architecture](https://w.pitula.me/fintech-engineering-handbook/) ⭐️ 8.0/10
+## [Chinese Cybersecurity Firm 360 Develops AI Tools to Compete with Anthropic's Mythos](https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/) ⭐️ 7.0/10
 
-A comprehensive engineering handbook covering financial systems architecture, monetary value representation strategies, and transactional data modeling has been published with active technical discourse from experienced practitioners. The resource includes 172 comments revealing deep engagement with real fintech engineering challenges including IEEE 754 precision issues, FX handling, and immutable logging patterns. This handbook represents a high-value technical resource validated by the Hacker News community, offering practitioners valuable insights into critical financial engineering challenges. The active discussion provides real-world perspectives on monetary representation and data modeling that directly impact system reliability in fintech applications. The discussion highlights critical technical debates around monetary value representation, with experienced engineers emphasizing integer-based storage over floating-point arithmetic to avoid precision errors. Key topics include exchange rate resolution complexities, partner integration edge cases, and the importance of immutable logging patterns for financial transaction integrity.
+Chinese cybersecurity firm 360 has developed two AI security tools designed to compete with Anthropic's Mythos, with one already flagging 3,432 vulnerabilities. Founder Zhou Hongyi acknowledged that Chinese AI models currently trail Western ones by approximately 20-30 percent in performance. This development signals that China is treating AI security as a strategic national priority comparable to nuclear deterrence. The competition between Chinese and Western AI security tools will shape how organizations worldwide defend against increasingly sophisticated cyber threats. The tools have demonstrated practical utility by successfully identifying over 3,400 vulnerabilities in real-world testing scenarios. Zhou Hongyi's candid admission about the performance gap between Chinese and Western AI models adds credibility to this competitive announcement.
 
-hackernews · signa11 · Jun 27, 10:28 · [Discussion](https://news.ycombinator.com/item?id=48696982)
+rss · The Decoder · Jun 28, 09:30
 
-**Background**: Financial systems engineering requires specialized knowledge because monetary values demand precise arithmetic operations that standard floating-point types cannot reliably provide. Transactional data modeling in finance involves capturing complete transaction histories with audit trails, making the choice of representation critical for both accuracy and regulatory compliance.
+**Background**: Anthropic's Mythos is an unreleased AI model that cybersecurity experts consider potentially dangerous enough to warrant restricted public access. Deterrence theory, originally developed for nuclear strategy through the promise of retaliation and mutually assured destruction, has been adapted to explain how nations prevent conflict in modern domains like cyberspace.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/pulse/optimizing-financial-software-benefits-xokbc">www.linkedin.com › pulse › optimizing-financial- software Optimizing Financial Software: The Benefits of Using ... -...</a></li>
-<li><a href="https://www.aitorres.com/blog/handling-monetary-values-in-code/">www.aitorres.com › blog › handling- monetary -values- in -code Handling monetary values in code · andrés ignacio torres</a></li>
-<li><a href="https://web.meetcleo.com/blog/always-use-a-money-object-when-dealing-with-money-values">web.meetcleo.com › blog › always-use-a-money-object-when Using a Money object when dealing with money values</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/apr/22/what-is-anthropic-mythos-ai-threat-global-cybersecurity">www.theguardian.com › technology › 2026 What is Mythos AI and why could it be a threat to global...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Practitioners express strong opinions about monetary value representation, with many advocating for integer-based storage to avoid floating-point precision issues. The discussion reveals ongoing debate between event sourcing approaches versus traditional immutable logs, and concerns about partner integration when different currencies use varying digit conventions.
-
-**Tags**: `#fintech`, `#systems-design`, `#financial-engineering`, `#data-modeling`
+**Tags**: `#ai-security`, `#cybersecurity`, `#geopolitics`, `#artificial-intelligence`, `#vulnerability-detection`
 
 ---
 
 <a id="item-3"></a>
-## [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev/) ⭐️ 7.0/10
+## [VibeThinker-3B Shows Reasoning Compresses Better Than Factual Knowledge](https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/) ⭐️ 7.0/10
 
-An interactive educational platform teaching PowerPC decompilation skills by having users match GameCube assembly code back to C source using a live CodeWarrior compiler.
+Sina Weibo released VibeThinker-3B, a 3-billion parameter model that matches much larger models like DeepSeek V3.2 and Kimi K2.5 on math and coding benchmarks through multi-stage post-training techniques. This research supports the hypothesis that logical reasoning compresses efficiently into smaller models while broad world knowledge requires more capacity, offering insights for parameter-efficient AI development. The model achieves performance parity with models up to 333 times larger, demonstrating that the multi-stage post-training approach is more critical than raw parameter count for specific reasoning tasks.
 
-hackernews · jackpriceburns · Jun 28, 01:21 · [Discussion](https://news.ycombinator.com/item?id=48703412)
+rss · The Decoder · Jun 28, 07:44
 
-**Tags**: `#reverse-engineering`, `#decompilation`, `#game-development`, `#assembly`, `#education`
+**Background**: Large language models typically undergo multiple training stages including supervised fine-tuning (SFT) and reinforcement learning from human feedback. These post-training techniques shape how models acquire knowledge and reasoning abilities after their initial pre-training on vast text corpora.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/2503.06072">arxiv.org › abs › 2503 A Survey on Post-training of Large Language Models arxiv.org › html › 2503 Large Language Models Post-training: Surveying Techniques from... www.sundeepteki.org › advice › the-complete-guide-to- post Post-Training LLMs Guide: SFT, RLHF, DPO & GRPO Explained (2026) developers.redhat.com › articles › 2025/11/04 Post-training methods for language models | Red Hat Developer aclanthology.org › 2025 A Survey of Post-Training Scaling in Large Language Models dev.to › sunethkawasaki7 › what-is-llm- post - training -best What Is LLM Post-Training? Best Techniques in 2025 Images</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI/ML`, `#model-architecture`, `#parameter-efficiency`, `#reasoning-capabilities`
 
 ---
 
 <a id="item-4"></a>
-## [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium) ⭐️ 6.0/10
+## [DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60–85% Over MTP-1](https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/) ⭐️ 7.0/10
 
-Hacker News discussion analyzing GitHub uploads of various undisclosed exploits and vulnerabilities by an anonymous user, with community members debating their actual novelty and disclosure practices.
+DeepSeek releases DSpark, an open-source speculative decoding framework that achieves significant per-user generation acceleration through a specialized draft module architecture and adaptive verification mechanisms.
 
-hackernews · binyu · Jun 27, 14:31 · [Discussion](https://news.ycombinator.com/item?id=48698617)
+rss · MarkTechPost · Jun 27, 16:59
 
-**Tags**: `#security`, `#vulnerabilities`, `#exploits`, `#0-days`, `#disclosure`
+**Tags**: `#LLM inference`, `#speculative decoding`, `#deep learning optimization`, `#AI systems`, `#open source`
 
 ---
 
 <a id="item-5"></a>
-## [Security Researcher Evilbit Publishes Comprehensive Guide on Choosing Public DNS Resolvers](https://evilbit.de/dns-resolver-guide.html) ⭐️ 6.0/10
+## [Silicon Valley AI Execs Who Backed Trump Now Want Regulation](https://thenextweb.com/news/silicon-valley-ai-regulation-trump-biden-irony-framework) ⭐️ 7.0/10
 
-This article provides a comprehensive technical guide evaluating public DNS resolver options, covering privacy considerations, performance metrics, and reliability tradeoffs for users seeking alternatives to their ISP's default resolvers. The guide is authored by security researcher evilbit and includes community discussions about practical implementations like self-hosted solutions and NextDNS experiences. DNS resolvers represent a critical privacy and security vulnerability point in network infrastructure, with users' default ISP providers potentially logging and monitoring all their DNS queries. This guide empowers individuals to make informed decisions about protecting their online activity through alternative resolver choices that prioritize anonymity and transparency. The guide explores multiple implementation approaches including self-hosted solutions, NextDNS filtering capabilities with configurable logging, and Unbound DoH configurations that support advanced features like Encrypted Client Hello. Community feedback highlights practical considerations such as captive portal compatibility on public networks and the value of performance benchmarking tools for evaluating resolver responsiveness.
+According to Politico, frontier AI company executives who financially supported Donald Trump's presidential campaign are now requesting formal regulatory frameworks for artificial intelligence oversight. These industry leaders have expressed that the current administration's informal and ad hoc approach to model governance is more problematic than policies proposed during the Biden era. This reversal highlights the complex political economy of AI governance, revealing how industry stakeholders strategically position themselves on regulation based on perceived effectiveness rather than ideological consistency. The shift from opposing oversight to seeking formal rules could significantly influence future regulatory approaches and the relationship between technology companies and government agencies. The industry's preference for structured regulatory frameworks over informal oversight suggests executives prioritize predictable compliance mechanisms that provide certainty in an increasingly scrutinized technological landscape. Frontier AI companies are particularly concerned about establishing clear accountability standards to guide responsible development of advanced models.
 
-hackernews · pawal · Jun 27, 22:11 · [Discussion](https://news.ycombinator.com/item?id=48702273)
+rss · The Next Web AI · Jun 27, 15:54
 
-**Background**: The Domain Name System translates human-readable domain names into machine-accessible IP addresses, serving as a fundamental internet infrastructure layer that most users interact with daily without realizing it. Most home and office networks use their Internet Service Provider's DNS servers by default, which means all name resolution requests pass through the ISP's infrastructure where logs can be retained.
+**Background**: AI governance has become a critical policy challenge as artificial intelligence systems grow more sophisticated and their societal impacts expand. The debate centers on balancing innovation with responsible development, requiring frameworks that address safety concerns while enabling continued technological advancement. Different approaches exist globally, ranging from the comprehensive EU AI Act to lighter-touch models like NIST's framework.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.privacyguides.org/en/dns/">www.privacyguides.org › en › dns DNS Resolvers - Privacy Guides</a></li>
-<li><a href="https://quad9.net/">quad9.net Quad9 | A public and free DNS service for a better security and...</a></li>
+<li><a href="https://www.ai21.com/knowledge/ai-governance-frameworks/">www.ai21.com › knowledge › ai -governance- frameworks 9 Key AI Governance Frameworks in 2025 - AI21</a></li>
+<li><a href="https://elevateconsult.com/insights/ai-governance-frameworks-overview-which-model-is-right/">elevateconsult.com › insights › ai -governance- frameworks AI Governance Frameworks Compared 2026 | Elevate Consult</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community responses reveal diverse approaches to DNS management, with experienced users maintaining their own resolver infrastructure while others find practical solutions through services like NextDNS. Technical discussions focus on implementation details such as Unbound's Encrypted Client Hello support and domain pre-caching strategies for improved performance.
-
-**Tags**: `#networking`, `#dns`, `#privacy`, `#security`, `#infrastructure`
+**Tags**: `#ai-regulation`, `#tech-policy`, `#silicon-valley`, `#political-economy`
 
 ---
 
 <a id="item-6"></a>
-## [Ford's AI Quality Inspection Project Failed Despite Heavy Hiring](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html) ⭐️ 6.0/10
+## [FBI Warns Russian Hackers Targeting Signal Backup Keys](https://thenextweb.com/news/fbi-russian-hackers-signal-backup-recovery-key-unc5792) ⭐️ 7.0/10
 
-Ford attempted to implement AI-powered quality inspection on its assembly lines, hiring approximately 350 engineers over three years. The initiative ultimately failed due to inadequate attention to experienced engineers' insights and practical implementation challenges with computer vision systems. This case reveals the persistent disconnect between theoretical AI capabilities and real-world manufacturing applications, demonstrating how organizations often underestimate implementation complexity. It serves as a cautionary tale for companies rushing to adopt AI without understanding practical constraints. The project relied on convolutional neural networks (CNNs) running on custom IBM hardware for visual inspection rather than advanced language models. Ford's leadership acknowledged they hadn't sufficiently valued the practical knowledge held by their most experienced engineers.
+The FBI and CISA have issued a new warning that Russian intelligence hackers are using phishing campaigns to steal Signal users' backup recovery keys, which allows them to read encrypted messages even after victims change devices. This represents an escalation of attacks that have already compromised thousands of accounts globally. This threat undermines the core promise of Signal's end-to-end encryption by targeting the recovery mechanism that users must safeguard themselves. Millions of privacy-conscious users face potential message interception through this sophisticated social engineering approach. Attackers impersonate official Signal support to deceive users into revealing their 64-character recovery keys, which then grant full access to encrypted message archives on compromised accounts. The key never leaves the user's device and is not stored on any servers.
 
-hackernews · speckx · Jun 28, 03:09 · [Discussion](https://news.ycombinator.com/item?id=48703968)
+rss · The Next Web AI · Jun 27, 15:15
 
-**Background**: Computer vision is a mature technology for manufacturing quality control, with industrial applications including defect detection and assembly verification. The technology has been successfully deployed in automotive production environments but requires careful implementation.
+**Background**: Signal implements end-to-end encryption that keeps messages encrypted throughout transmission, with a recovery key stored locally on each device to restore access across different phones. This security model requires users to manage their own backup credentials without platform intervention.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://voxel51.com/blog/how-computer-vision-is-changing-manufacturing">Computer Vision Industrial Applications in Manufacturing | Voxel51</a></li>
-<li><a href="https://encord.com/blog/computer-vision-manufacturing/">Computer Vision for Manufacturing | Encord</a></li>
-<li><a href="https://blog.roboflow.com/computer-vision-in-manufacturing/">Computer Vision Manufacturing Use Cases: A Guide</a></li>
+<li><a href="https://support.signal.org/hc/en-us/articles/9708267671322-Signal-Secure-Backups">support. signal .org › hc › en-us Signal Secure Backups – Signal Support</a></li>
+<li><a href="https://keepnetlabs.com/blog/what-is-end-to-end-encryption-everything-you-need-to-know">keepnetlabs.com › blog › what-is- end - to - end - encryption End-to-End Encryption: How It Works & Why It’s Important -...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters emphasize that AI is often misunderstood as a magic solution rather than another tool, with one noting Ford's project likely used traditional CNNs on IBM hardware. There's strong agreement that organizations fail to value institutional knowledge held by experienced engineers.
-
-**Tags**: `#AI`, `#automation`, `#manufacturing`, `#organizational-behavior`, `#case-study`
+**Tags**: `#cybersecurity`, `#signal-messaging`, `#state-sponsored-hacking`, `#security-alerts`, `#privacy`
 
 ---
 
 <a id="item-7"></a>
-## [TownSquare: Ephemeral Presence Layer Shows Who's Visiting Your Site](https://cauenapier.com/blog/townsquare_release/) ⭐️ 6.0/10
+## [Industry Leaders Question Musk's Orbital Data Center Vision](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/) ⭐️ 6.0/10
 
-TownSquare is a new presence layer that displays real-time visitor information on websites, showing who is currently browsing the site without traditional social networking features. The platform intentionally avoids accounts, profiles, and permanent history, keeping all interactions ephemeral and temporary. This project explores an alternative approach to online social interaction that focuses on presence rather than permanent connections, potentially offering a more natural web experience. It challenges how we design digital spaces by prioritizing the feeling of shared physical space over traditional engagement metrics. The platform uses simple visual indicators like moving stick figures to represent visitors, with comments flashing briefly as they appear. All content is intentionally designed to disappear once people leave, creating a truly ephemeral digital environment.
+SoftBank CEO and other industry leaders have expressed skepticism about the feasibility of Elon Musk's proposed orbital data center network, challenging the widespread hype surrounding this space infrastructure project. This skepticism from major industry players signals that speculative mega-projects face real scrutiny beyond Silicon Valley enthusiasm, potentially affecting investment decisions and technological development timelines for space computing. The orbital data center concept requires launch costs to drop significantly below current levels, while simultaneously overcoming technical hurdles including resource management and system reliability in extreme space environments.
 
-hackernews · eustoria · Jun 27, 17:11 · [Discussion](https://news.ycombinator.com/item?id=48699928)
+rss · TechCrunch AI · Jun 27, 20:42
 
-**Background**: Presence layer technology refers to systems that detect and display information about people's current activity or location. While commonly associated with virtual reality research where users feel physically present in digital environments, this concept has been applied to web design as well.
+**Background**: Space-based computing represents a frontier technology that could potentially reduce latency for global data processing, though it demands solving complex engineering problems related to power generation and thermal regulation in orbit. The concept envisions satellites hosting server infrastructure to process data closer to its source, eliminating ground-relay delays.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nature.com/articles/s41599-025-04380-3">Being there but where? Sense of presence theory for virtual reality ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Space-based_data_center">en.wikipedia.org › wiki › Space-based_data_center Space-based data center - Wikipedia</a></li>
+<li><a href="https://www.brookings.edu/articles/orbital-data-centers-feasibility-gap-is-a-governance-risk/">www.brookings.edu › articles › orbital - data -centers Orbital data centers’ feasibility gap is a governance risk</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments show mixed reactions with some users appreciating the nostalgic approach to online presence, including one sharing how they met their wife on similar technology in 2006. Others expressed concerns about creepiness and usability issues, noting the interface can be confusing.
-
-**Tags**: `#web-development`, `#social-computing`, `#ux-design`, `#presence-layer`
+**Tags**: `#space-infrastructure`, `#elon-musk`, `#cloud-computing`, `#tech-skepticism`
 
 ---
 
 <a id="item-8"></a>
-## [The Case for Physical Media Ownership Explained](https://dervis.de/physical/) ⭐️ 6.0/10
+## [Apple Vision Pro Executive Joins OpenAI Hardware Team](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) ⭐️ 6.0/10
 
-This opinion piece examines the arguments surrounding physical versus digital media ownership, highlighting how modern licensing models challenge traditional concepts of possession. The article explores why some consumers still prefer tangible media formats over purely digital alternatives. This debate reflects broader concerns about consumer rights in an increasingly licensed digital economy where DRM and streaming services are reshaping traditional ownership expectations. The discussion has genuine reader interest, with over 290 comments indicating engagement with these philosophical and practical questions. The discussion highlights how licensing terms can override purchase rights, with platforms like Sony explicitly reserving the ability to remove content from user libraries based on third-party agreements. Commenters also note that digital ownership through services like GOG and Bandcamp offers alternatives to traditional physical media.
+Paul Meade, Apple's vice president overseeing the Vision Pro headset development, is reportedly leaving to lead hardware initiatives at OpenAI. This marks a significant personnel move between two major technology companies working on advanced computing and AI hardware. This executive transition highlights the growing convergence of spatial computing, artificial intelligence, and advanced hardware development across tech industry leaders. The move suggests increasing collaboration between companies pursuing next-generation computing experiences. Meade's departure represents a strategic shift in leadership for both organizations' hardware ambitions, with his Vision Pro experience potentially informing OpenAI's emerging device development efforts.
 
-hackernews · cemdervis · Jun 27, 11:32 · [Discussion](https://news.ycombinator.com/item?id=48697335)
+rss · TechCrunch AI · Jun 27, 16:45
 
-**Background**: Digital media ownership has evolved from straightforward purchases into complex licensing arrangements where DRM controls access and terms of service define usage boundaries. Physical formats like CDs, DVDs, and Blu-rays offered more direct possession rights compared to today's restrictive digital models that prioritize platform control over consumer autonomy.
+**Background**: Spatial computing represents a transformative technology enabling immersive digital experiences through advanced display and interaction capabilities, with Apple's Vision Pro pioneering this approach. Simultaneously, OpenAI is expanding beyond pure software into physical hardware development, creating new opportunities for cross-industry innovation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/pulse/digital-vs-physical-media-understanding-pros-u5zqc">www.linkedin.com › pulse › digital - vs - physical - media Digital vs. Physical Media: Understanding the Pros and Cons</a></li>
-<li><a href="https://libertyproject.com/digital-vs-physical-media">libertyproject.com › digital - vs - physical - media Digital Media May Be Convenient, But Is It Yours?</a></li>
+<li><a href="https://builtin.com/articles/openai-device">builtin.com › articles › openai -device OpenAI’s New Device: What We Know So Far | Built In</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters emphasize that true ownership requires meaningful sharing rights, with some advocating digital alternatives like Bandcamp and GOG as practical solutions. There's also discussion of historical attempts at digital ownership through services like Ultraviolet, which briefly allowed users to own titles accessible across multiple devices.
+**Tags**: `#hardware`, `#ai-ml`, `#industry-news`, `#executive-moves`
 
-**Tags**: `#media`, `#ownership`, `#DRM`, `#digital-rights`, `#consumer-culture`
+---
+
+<a id="item-9"></a>
+## [Euclid Telescope Releases Most Detailed Milky Way Center Image Yet](https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/) ⭐️ 6.0/10
+
+The Euclid space telescope has released its most detailed image of the Milky Way's center, capturing over 60 million stars in our galaxy's crowded heart region. This detailed visualization helps astronomers better understand the structure and density of our galactic center, contributing to broader cosmology research goals. The image reveals an extraordinary concentration of stellar objects in a compact area, showcasing the telescope's remarkable imaging capabilities and resolution for mapping crowded regions.
+
+rss · WIRED · Jun 28, 09:30
+
+**Background**: Euclid is a European Space Agency mission designed to map billions of galaxies across vast cosmic distances, with primary objectives of investigating dark energy and dark matter phenomena. The telescope will create detailed maps of the universe's large-scale structure by observing out to 10 billion light-years.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Euclid_(spacecraft)">en.wikipedia.org › wiki › Euclid_(spacecraft) Euclid (space telescope) - Wikipedia</a></li>
+<li><a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">www.esa.int › Science_Exploration › Space_Science ESA - Euclid - European Space Agency</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#astronomy`, `#space-science`, `#euclid-telescope`, `#galactic-center`, `#science-news`
+
+---
+
+<a id="item-10"></a>
+## [Security Weekly: LastPass Breach, Bolton Plea, Microsoft Takedown](https://www.wired.com/story/security-news-this-week-lastpass-users-had-their-data-stolen-again/) ⭐️ 6.0/10
+
+This weekly security news roundup from Wired covers the recurring LastPass data breach controversy, former national security advisor John Bolton's guilty plea in a classified materials case, and Microsoft's infrastructure takedown operations against infostealer malware. Security professionals and users need to track these incidents because they highlight persistent vulnerabilities in password management systems, ongoing legal challenges involving classified information handling, and the continuous evolution of credential theft techniques. The roundup highlights Microsoft's active role in dismantling infostealer networks and the repeated security failures affecting LastPass users, while noting Bolton's legal case involves classified materials mishandling.
+
+rss · WIRED · Jun 27, 10:30
+
+**Background**: Infostealer malware is a type of malicious software that scans computers for personally identifiable information such as login credentials and financial data, then sends this stolen information to attackers who often sell it on darknet markets. These threats represent one of the most common forms of cybercrime targeting individuals and organizations.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Infostealer">en.wikipedia.org › wiki › Infostealer Infostealer - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#cybersecurity`, `#data-breaches`, `#threat-intelligence`, `#security-news`
+
+---
+
+<a id="item-11"></a>
+## [J.P. Morgan Warns of AI Market Concentration Risks](https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/) ⭐️ 6.0/10
+
+J.P. Morgan identifies multiple concentration risks in the AI sector, noting that only 42 companies within the S&P 500 account for 65 to 80 percent of total profits. The bank highlights that semiconductor market patterns resemble historical bubble formations and leveraged chip ETFs have quintupled their influence since early 2024. This analysis is significant for investors and market participants as it reveals potential vulnerabilities in the AI ecosystem's profit distribution. The concentration risks could affect portfolio diversification strategies and signal broader economic implications if semiconductor markets follow historical bubble patterns. The semiconductor rally displays technical patterns last seen during the dotcom bubble era, suggesting similar market psychology and investor behavior. Leveraged chip ETFs have specifically quintupled their market influence since early 2024, indicating aggressive positioning in this sector.
+
+rss · The Decoder · Jun 27, 13:22
+
+**Background**: Leveraged ETFs are financial instruments that use derivatives and debt to amplify returns of an underlying index, creating both enhanced gains and proportionally larger potential losses. The dotcom bubble refers to the technology market boom in the late 1990s followed by a significant correction when investor enthusiasm outpaced fundamentals.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.investopedia.com/terms/l/leveraged-etf.asp">www.investopedia.com › terms › l Leveraged ETFs: The Potential for Big Gains—and Bigger Losses</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#fintech`, `#market-analysis`, `#investment`
+
+---
+
+<a id="item-12"></a>
+## [The companies most likely to automate your job are now funding a $1 billion program to retrain you](https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/) ⭐️ 6.0/10
+
+Major AI and cloud computing companies are jointly funding a $1 billion worker retraining initiative led by former Commerce Secretary Gina Raimondo to prepare the workforce for AI-driven job displacement.
+
+rss · The Decoder · Jun 27, 12:25
+
+**Tags**: `#AI`, `#workforce`, `#automation`, `#policy`, `#tech-ethics`
+
+---
+
+<a id="item-13"></a>
+## [Building Stable Fable 5 Traces Workflow in Colab with Tool Call Parsing](https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/) ⭐️ 6.0/10
+
+This tutorial demonstrates a reliable Google Colab workflow for processing the Fable 5 Traces dataset from Hugging Face, covering JSONL parsing, tool call normalization, data auditing with secret redaction, and Naive Bayes baseline training using pure Python. This practical guide addresses real-world challenges in handling agent traces data, providing techniques for JSONL parsing, tool call normalization, and establishing baseline models that practitioners can directly apply to their own workflows. The workflow focuses on avoiding fragile dependencies by manually parsing the merged JSONL file, normalizing tool calls for consistency across different formats, and training pure-Python Naive Bayes baselines without relying on heavy ML frameworks.
+
+rss · MarkTechPost · Jun 28, 07:02
+
+**Background**: Agent traces capture how AI systems interact with external tools and APIs, documenting the reasoning steps, tool invocations, and data transformations that occur during complex tasks. These detailed logs enable researchers to analyze model behavior, identify patterns in decision-making, and build more reliable agent systems for production use.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://huggingface.co/datasets/Glint-Research/Fable-5-traces">huggingface.co › datasets › Glint-Research Glint-Research/Fable-5-traces · Datasets at Hugging Face</a></li>
+<li><a href="https://zylos.ai/research/2026-04-07-tool-use-function-calling-standards-benchmarks/">zylos. ai › research › 2026/04/07- tool -use-function-calling Tool Use and Function Calling in AI Agents - zylos.ai</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#fable-traces`, `#machine-learning-workflows`, `#data-engineering`, `#huggingface`
+
+---
+
+<a id="item-14"></a>
+## [Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference](https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/) ⭐️ 6.0/10
+
+Liquid AI released its smallest open-weight model at 230M parameters with optimized on-device inference support across major ML frameworks including llama.cpp, vLLM, and ONNX.
+
+rss · MarkTechPost · Jun 28, 04:58
+
+**Tags**: `#small-language-models`, `#on-device-ai`, `#machine-learning-inference`, `#edge-computing`
+
+---
+
+<a id="item-15"></a>
+## [Instagram wants to make algorithm customisation a core part of the app, not a buried setting](https://thenextweb.com/news/instagram-your-algorithm-central-experience-mosseri) ⭐️ 6.0/10
+
+Instagram head Adam Mosseri announced plans to elevate algorithm customization from an obscure setting to a central feature within the app experience.
+
+rss · The Next Web AI · Jun 28, 09:44
+
+**Tags**: `#recommendation-systems`, `#social-media`, `#user-experience`, `#meta`
+
+---
+
+<a id="item-16"></a>
+## [Salesforce employees are confused about why the company is promoting a competitor inside Slack](https://thenextweb.com/news/salesforce-employees-anthropic-claude-tag-slack-tension) ⭐️ 6.0/10
+
+Salesforce employees expressed confusion when their company promoted Anthropic's Claude Tag, a Slack-integrated AI product that directly competes with Salesforce's own Agentforce platform.
+
+rss · The Next Web AI · Jun 28, 09:24
+
+**Tags**: `#AI`, `#business-strategy`, `#enterprise-software`, `#competitive-dynamics`
+
+---
+
+<a id="item-17"></a>
+## [Microsoft Promotes Andreou to Lead Copilot with New Agentic Autopilot Features](https://thenextweb.com/news/microsoft-copilot-andreou-nadella-ai-reset) ⭐️ 6.0/10
+
+Jacob Andreou has been promoted to lead Microsoft Copilot, overseeing more than 11,000 people and merging the consumer and enterprise teams into a unified organization. He is building an integrated platform that combines chat, coding capabilities, and a new agentic workflow called Autopilot. This leadership change signals Microsoft's strategic shift toward more autonomous AI systems that can execute complex workflows independently, potentially transforming how organizations leverage artificial intelligence for business operations and productivity enhancement. Andreou has eliminated redundant product versions and is creating a 'super app' that consolidates multiple AI capabilities into a single interface. The new Autopilot workflow represents agentic behavior where agents can perform multi-step tasks with minimal user input.
+
+rss · The Next Web AI · Jun 28, 09:08
+
+**Background**: Microsoft Copilot is the company's flagship AI initiative that provides conversational assistance across documents, emails, and applications for both individual users and enterprise teams. The platform has evolved from basic chatbot interactions into a more sophisticated tool designed to integrate deeply with Microsoft's productivity suite including Office apps.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/do-more-with-ai/general-ai/understanding-ai-agents-vs-chatbots">www.microsoft.com › understanding- ai -agents-vs- chatbots Understanding AI Agents vs. Chatbots | Microsoft Copilot</a></li>
+<li><a href="https://mitsloan.mit.edu/ideas-made-to-matter/agentic-ai-explained">mitsloan.mit.edu › ideas-made-to-matter › agentic- ai -explained Agentic AI, explained - MIT Sloan</a></li>
+<li><a href="https://blogs.microsoft.com/blog/2025/04/28/how-agentic-ai-is-driving-ai-first-business-transformation-for-customers-to-achieve-more/">How agentic AI is driving AI-first business transformation for customers to achieve more</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#Microsoft`, `#Enterprise Software`, `#Product Management`, `#Leadership`
+
+---
+
+<a id="item-18"></a>
+## [Cloudflare Cuts 1,100 Jobs While Growing Engineering Team by 45%](https://thenextweb.com/news/cloudflare-builders-sellers-measurers-engineering-surge-ai-layoffs) ⭐️ 6.0/10
+
+Cloudflare reduced its workforce by 1,100 positions in May but saw engineering headcount increase by 45% to 1,894 employees within weeks, according to BNP Paribas data from LinkedIn profiles. CEO Matthew Prince confirmed this selective hiring strategy and suggested it would become an industry-wide pattern. This selective hiring approach reveals how tech companies can strategically preserve and expand critical technical roles while reducing overall headcount, particularly relevant as AI transforms engineering job requirements across the industry. The data shows a clear divergence in workforce impact, with engineering roles growing significantly while other departments experienced reductions. This selective pattern aligns with Cloudflare's focus on technical infrastructure and product development over administrative functions.
+
+rss · The Next Web AI · Jun 27, 16:22
+
+**Background**: Cloudflare's strategy reflects a management framework that categorizes organizational roles into three types: builders who create products, sellers who market them to customers, and measurers who handle audit, finance, compliance, operations, and middle management. This distinction matters because AI and automation may impact each role type differently.
+
+**Tags**: `#tech-industry`, `#hiring-layoffs`, `#workforce-management`, `#cloud-infrastructure`, `#ai-impact`
+
+---
+
+<a id="item-19"></a>
+## [A Tokyo startup and a Beijing security firm just launched AI tools to fill the gap Anthropic’s export ban created](https://thenextweb.com/news/asian-ai-startups-mythos-alternatives-anthropic-export-ban) ⭐️ 6.0/10
+
+Asian AI startups are launching competing models as alternatives to Anthropic's export-banned offerings, signaling geopolitical fragmentation in the AI development landscape.
+
+rss · The Next Web AI · Jun 27, 12:52
+
+**Tags**: `#AI geopolitics`, `#LLM competition`, `#export controls`, `#startup launches`, `#technical sovereignty`
+
+---
+
+<a id="item-20"></a>
+## [NASA tests an in-orbit refueling device for deep space missions](https://www.engadget.com/2203145/nasa-tests-in-orbit-refueling-device-deep-space-missions/) ⭐️ 6.0/10
+
+NASA is testing a cryocoupler device developed by L3Harris that enables refueling spacecraft in orbit for extended deep space missions.
+
+rss · Engadget · Jun 27, 12:49
+
+**Tags**: `#aerospace`, `#propulsion`, `#space-missions`, `#satellite-technology`
 
 ---
