@@ -19,15 +19,5 @@ services:
     command:
       - |
         set -eu;
-        while true; do
-          now="$$(date +%s)";
-          target="$$(date -d "$${HORIZON_SCHEDULE_TIME:-08:00} today" +%s)";
-          if [ "$$now" -ge "$$target" ]; then
-            target="$$(date -d "$${HORIZON_SCHEDULE_TIME:-08:00} tomorrow" +%s)";
-          fi;
-          wait_seconds=$$((target - now));
-          echo "[$$(date +'%Y-%m-%dT%H:%M:%S%z')] Next Horizon run at $$(date -d "@$$target" '+%Y-%m-%d %H:%M:%S %Z') (in $${wait_seconds}s)";
-          sleep "$$wait_seconds";
-          echo "[$$(date +'%Y-%m-%dT%H:%M:%S%z')] Starting scheduled Horizon run";
-          uv run horizon --hours "$${HORIZON_HOURS:-24}" || echo "Horizon run failed with exit code $$?";
-        done
+        echo "[$$(date +'%Y-%m-%dT%H:%M:%S%z')] Horizon Docker runtime is ready; scheduled runs are managed by the host timer.";
+        while true; do sleep 3600; done

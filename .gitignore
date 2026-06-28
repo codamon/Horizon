@@ -53,6 +53,7 @@ docs/.jekyll-cache/
 # Logs
 logs/*.log
 *.log
+.horizon-daily.lock
 
 # macOS
 .DS_Store

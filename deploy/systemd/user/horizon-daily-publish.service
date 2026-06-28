@@ -1,0 +1,14 @@
+[Unit]
+Description=Run Horizon daily digest and publish GitHub Pages
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/projects/Horizon
+Environment=HOME=/home/damon
+Environment=PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+Environment=TZ=Pacific/Auckland
+Environment=HORIZON_HOURS=24
+ExecStart=/opt/projects/Horizon/scripts/run-and-publish.sh
+TimeoutStartSec=12h

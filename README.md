@@ -332,6 +332,14 @@ The generated report will be saved to `data/summaries/`.
 
 Horizon works great as a **GitHub Actions** cron job. See [`.github/workflows/daily-summary.yml`](.github/workflows/daily-summary.yml) for a ready-to-use workflow that generates and deploys your daily briefing to GitHub Pages automatically.
 
+For a local Docker runtime that publishes with the host machine's existing Git/SSH credentials, use:
+
+```bash
+./scripts/run-and-publish.sh
+```
+
+The systemd unit templates in `deploy/systemd/` and `deploy/systemd/user/` run that script daily at `08:00 Pacific/Auckland`, generating the briefing inside Docker and then publishing `docs/` to the `gh-pages` branch.
+
 ## Supported Sources
 
 | Source | What it fetches | Comments |
