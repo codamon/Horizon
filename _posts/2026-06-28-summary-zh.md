@@ -5,367 +5,327 @@ date: 2026-06-28
 lang: zh
 ---
 
-> 从 46 条内容中筛选出 20 条重要资讯。
+> 从 33 条内容中筛选出 16 条重要资讯。
 
 ---
 
-1. [三款 AI 模型通过 500 天创业模拟测试 - 仅高于初始资本](#item-1) ⭐️ 7.0/10
-2. [中国网络安全公司 360 开发 AI 工具与 Anthropic 的 Mythos 竞争](#item-2) ⭐️ 7.0/10
-3. [VibeThinker-3B 表明推理比事实知识更易压缩](#item-3) ⭐️ 7.0/10
-4. [DeepSeek 发布 DSpark，一个推测解码框架，在对比 MTP-1 时使 DeepSeek-V4 每用户生成速度提升 60–85%](#item-4) ⭐️ 7.0/10
-5. [硅谷 AI 高管支持特朗普后现在要求监管](#item-5) ⭐️ 7.0/10
-6. [俄黑客利用钓鱼窃取 Signal 备份密钥，FBI 发出警告](#item-6) ⭐️ 7.0/10
-7. [行业领袖质疑马斯克轨道数据中心愿景](#item-7) ⭐️ 6.0/10
-8. [苹果 Vision Pro 高管加入 OpenAI 硬件团队](#item-8) ⭐️ 6.0/10
-9. [欧几里得望远镜发布银河系中心最详细图像](#item-9) ⭐️ 6.0/10
-10. [安全周报：LastPass 数据泄露、Bolton 认罪、微软打击恶意软件](#item-10) ⭐️ 6.0/10
-11. [摩根大通警示 AI 市场集中度风险](#item-11) ⭐️ 6.0/10
-12. [最有可能自动化你工作的公司，现在正资助一项价值 10 亿美元的再培训计划](#item-12) ⭐️ 6.0/10
-13. [在 Colab 中构建稳定的 Fable 5 追踪工作流与工具调用解析](#item-13) ⭐️ 6.0/10
-14. [Liquid AI 推出 LFM2.5-230M，支持 llama.cpp、MLX、vLLM、SGLang 和 ONNX 实现设备端推理](#item-14) ⭐️ 6.0/10
-15. [Instagram 希望将算法自定义作为应用的核心部分，而非隐藏的选项](#item-15) ⭐️ 6.0/10
-16. [Salesforce 员工困惑公司为何在 Slack 内推广竞争对手产品](#item-16) ⭐️ 6.0/10
-17. [微软提拔安德鲁领导 Copilot 并推出新代理式 Autopilot 功能](#item-17) ⭐️ 6.0/10
-18. [云 flare 裁员 1100 人同时工程团队增长 45%](#item-18) ⭐️ 6.0/10
-19. [东京一家初创企业和北京一家安全公司推出 AI 工具填补 Anthropic 出口禁令留下的空白](#item-19) ⭐️ 6.0/10
-20. [NASA 测试用于深空任务的在轨加油装置](#item-20) ⭐️ 6.0/10
+1. [普林斯顿 CEO-Bench 显示大多数 AI 模型难以经营初创企业](#item-1) ⭐️ 7.0/10
+2. [新浪微博 30 亿参数 VibeThinker 模型显示推理比知识更容易压缩](#item-2) ⭐️ 7.0/10
+3. [英伟达支持的 Firmus 在印尼建设 360 兆瓦 AI 数据中心，预计 300 亿美元订单](#item-3) ⭐️ 7.0/10
+4. [行业高管质疑马斯克的轨道数据中心愿景](#item-4) ⭐️ 6.0/10
+5. [检方在洛杉矶致命野火纵火案中采用 ChatGPT 日志作为证据](#item-5) ⭐️ 6.0/10
+6. [财富不平等通过'几乎无家可归'子版块故事显现](#item-6) ⭐️ 6.0/10
+7. [中国灵晟超算不用 GPU 登顶世界第一](#item-7) ⭐️ 6.0/10
+8. [人工智能必须从聊天机器人进化为能完成任务的数字同事](#item-8) ⭐️ 6.0/10
+9. [Coinbase 加入中国 AI 模型热潮，西方实验室面临定价压力测试](#item-9) ⭐️ 6.0/10
+10. [中国网络安全公司 360 推出 AI 安全工具与 Mythos 竞争](#item-10) ⭐️ 6.0/10
+11. [构建 Fable 5 Traces 数据集的 Colab 稳定工作流分析](#item-11) ⭐️ 6.0/10
+12. [Liquid AI 发布 LFM2.5-230M，支持 llama.cpp、MLX、vLLM、SGLang 和 ONNX 实现端侧推理](#item-12) ⭐️ 6.0/10
+13. [渥太华大学研究人员开发利用可穿戴生物数据的 AI 治疗师](#item-13) ⭐️ 6.0/10
+14. [美光股价飙升突破万亿美元市值，AI 内存需求推动增长](#item-14) ⭐️ 6.0/10
+15. [印度 UPI 计划用 AI 推动日交易量从 7.5 亿到 10 亿](#item-15) ⭐️ 6.0/10
+16. [苹果触控屏 MacBook 将搭载 M5 芯片而非传闻中的 M7](#item-16) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [三款 AI 模型通过 500 天创业模拟测试 - 仅高于初始资本](https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/) ⭐️ 7.0/10
+## [普林斯顿 CEO-Bench 显示大多数 AI 模型难以经营初创企业](https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/) ⭐️ 7.0/10
 
-普林斯顿大学研究人员创建了 CEO-Bench，一个模拟创业环境，AI 代理需要经营软件公司长达 500 天。仅有三款 AI 模型成功将盈利能力维持在初始资本之上，而没有任何 AI 参与的简单规则启发式方法的表现甚至优于大多数复杂模型。 这项基准测试暴露了当前 AI 模型在长期战略规划和不确定性环境下商业决策方面的关键缺陷。结果表明，即使是先进的语言模型在面对需要持续适应的真实开放式问题时，也难以保持稳定的表现水平。 模拟环境要求代理同时处理定价策略、营销活动、预算平衡和战略规划。规则启发式方法击败大多数 AI 模型这一发现突显了将通用智能转化为特定领域专业知识的难度。
+普林斯顿大学研究人员创建了 CEO-Bench，这是一个初创企业模拟基准测试，AI 代理需要经营一家虚构的软件公司长达 500 个模拟日。只有三个 AI 模型以比开始时更多的资本完成测试，而简单的基于规则的启发式方法在没有 AI 的情况下几乎击败了所有其他模型。 这个基准测试揭示了当前 AI 模型在推理和长期规划能力方面的重要局限性，表明经济决策仍然是自主系统面临的艰巨任务。它为研究人员提供了一个现实主义的测试环境，可以评估代理性能而不仅仅是传统基准。 这项测试表明，复杂的 AI 代理在动态经济环境中难以维持盈利能力，简单的战略启发式方法往往比高级机器学习方法更有效。该基准专门评估长期规划、适应能力和不确定性下的协调能力。
 
 rss · The Decoder · 6月28日 10:16
 
-**背景**: CEO-Bench 是一个新颖的基准测试，评估 AI 代理在真实商业环境中进行长期规划和决策的能力。与传统测试孤立能力的基准不同，这种方法模拟了随时间推移决策结果的累积效应，类似于初创企业如何面对每个战略选择带来的连锁影响。
+**背景**: CEO-Bench 是一个创新的评估框架，用于测试 AI 代理在现实商业环境中执行复杂经济任务的能力。与专注于特定能力（如语言理解或图像识别）的传统基准不同，这项测试衡量模型如何在较长时间内维持盈利能力，同时应对市场不确定性和与其他代理竞争。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://ceobench.com/">ceobench.com CEO-Bench</a></li>
-<li><a href="https://aidailypost.com/news/ceobench-tests-ai-agents-by-running-simulated-startup-500-days">aidailypost.com › news › ceobench-tests-ai-agents-by-running CEO‑Bench tests AI agents by running a simulated startup...</a></li>
+<li><a href="https://ceobench.com/">CEO-Bench</a></li>
+<li><a href="https://aidailypost.com/news/three-ai-models-beat-starting-capital-princetons-500day-ceobench-test">Three AI models beat starting capital in Princeton's...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Agents`, `#Startup Simulation`, `#Princeton Research`, `#AI Evaluation`
+**标签**: `#AI Agents`, `#Machine Learning Research`, `#Economic Simulation`, `#Model Evaluation`, `#Autonomous Systems`
 
 ---
 
 <a id="item-2"></a>
-## [中国网络安全公司 360 开发 AI 工具与 Anthropic 的 Mythos 竞争](https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/) ⭐️ 7.0/10
+## [新浪微博 30 亿参数 VibeThinker 模型显示推理比知识更容易压缩](https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/) ⭐️ 7.0/10
 
-中国网络安全公司 360 开发了两款 AI 安全工具来与 Anthropic 的 Mythos 竞争，其中一款已识别出 3,432 个漏洞。创始人周鸿祎承认，在性能方面，中国 AI 模型目前落后西方约 20-30%。 这一发展表明，中国将 AI 安全视为与核威慑相当的国家战略优先事项。中西方 AI 安全工具的竞争将影响全球组织如何防御日益复杂的网络威胁。 这些工具在实际测试场景中成功识别出超过 3,400 个漏洞，证明了其实用性。周鸿祎对中国与西方 AI 模型性能差距的坦诚承认增加了这一竞争声明的可信度。
+新浪微博推出了仅三十亿参数的 VibeThinker-3B 模型，通过多阶段后训练技术，在数学和代码基准测试上媲美 DeepSeek V3.2 和 Kimi K2.5 等更大的竞争对手。 该模型验证了一个重要假设：逻辑推理能高效压缩到较小架构中，而广泛的世界知识则需要多得多的参数，这为未来的 AI 效率研究提供了指导方向。 该模型通过专门的多阶段后训练技术，而非单纯增加参数规模，实现了与大三百倍模型相当的性能表现，表明推理能力可以集中在较小的网络中。
 
-rss · The Decoder · 6月28日 09:30
+rss · The Decoder · 6月28日 07:44
 
-**背景**: Anthropic 的 Mythos 是一款未发布的 AI 模型，网络安全专家认为其危险程度足以限制公共访问。威慑理论最初用于核战略，通过报复承诺和相互确保毁灭来防止冲突，现在被用来解释国家如何在网络空间等现代领域预防冲突。
+**背景**: 后训练技术如监督微调(SFT)和基于反馈的强化学习将通用文本预测器转化为具备更强推理能力的专用系统。这些方法涉及使用超过一百万个示例的多阶段训练，以生成在用户查询上广泛有用的模型。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.theguardian.com/technology/2026/apr/22/what-is-anthropic-mythos-ai-threat-global-cybersecurity">www.theguardian.com › technology › 2026 What is Mythos AI and why could it be a threat to global...</a></li>
+<li><a href="https://arxiv.org/html/2503.06072v2">arxiv.org › html › 2503 Large Language Models Post-training: Surveying Techniques from...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#ai-security`, `#cybersecurity`, `#geopolitics`, `#artificial-intelligence`, `#vulnerability-detection`
+**标签**: `#AI/ML`, `#Model Architecture`, `#Efficiency`, `#Open Source`, `#Reasoning`
 
 ---
 
 <a id="item-3"></a>
-## [VibeThinker-3B 表明推理比事实知识更易压缩](https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/) ⭐️ 7.0/10
+## [英伟达支持的 Firmus 在印尼建设 360 兆瓦 AI 数据中心，预计 300 亿美元订单](https://thenextweb.com/news/firmus-nvidia-indonesia-batam-data-center-30-billion) ⭐️ 7.0/10
 
-新浪微博发布了 VibeThinker-3B，这是一个拥有 30 亿参数的模型，通过多阶段后训练技术，在数学和编码基准测试上能够匹敌像 DeepSeek V3.2 和 Kimi K2.5 这样大得多的模型。 这项研究支持了逻辑推理可以高效压缩到小模型中，而广泛的世界知识需要更多容量的假设，为参数高效的 AI 开发提供了见解。 该模型实现了与大三倍（达 333 倍）更大模型相当的性能，证明了多阶段后训练方法对于特定推理任务比原始参数数量更为关键。
+澳大利亚 AI 基础设施公司 Firmus Technologies 正在印尼巴淡岛建设一座 360 兆瓦的英伟达 DSX AI 工厂数据中心，通过与英伟达和本地合作伙伴 DayOne 的八年合作完成。该设施预计在其运营生命周期内产生 300 亿美元的订单。 这项基础设施投资表明市场对 AI 计算资源持续需求充满信心，并代表全球数据中心容量的重要扩张。该项目预示着为支持人工智能开发所需的计算能力而进行的持续资本投入。 巴淡岛设施采用英伟达 DSX AI 工厂架构，整合了经过验证的系统设计、数字孪生模拟和高级电源管理功能。360 兆瓦的容量使其成为当前一代 AI 基础设施项目中规模可观的部署。
 
-rss · The Decoder · 6月28日 07:44
+rss · The Next Web AI · 6月28日 17:16
 
-**背景**: 大型语言模型通常经历多个训练阶段，包括监督微调（SFT）和基于人类反馈的强化学习。这些后训练技术塑造了模型在初始大规模文本语料库预训练之后获取知识和推理能力的方式。
+**背景**: AI 数据中心需要巨大的电力消耗，根据规模不同通常在 20 兆瓦到 1 吉瓦之间。这些设施需要专门的硬件基础设施，包括先进的冷却系统和电网连接，远超传统计算中心的要求。英伟达 DSX 平台提供了通过经过验证的架构和数字孪生模拟功能来设计和运营此类 AI 工厂以实现最佳效率的工具。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2503.06072">arxiv.org › abs › 2503 A Survey on Post-training of Large Language Models arxiv.org › html › 2503 Large Language Models Post-training: Surveying Techniques from... www.sundeepteki.org › advice › the-complete-guide-to- post Post-Training LLMs Guide: SFT, RLHF, DPO & GRPO Explained (2026) developers.redhat.com › articles › 2025/11/04 Post-training methods for language models | Red Hat Developer aclanthology.org › 2025 A Survey of Post-Training Scaling in Large Language Models dev.to › sunethkawasaki7 › what-is-llm- post - training -best What Is LLM Post-Training? Best Techniques in 2025 Images</a></li>
+<li><a href="https://techplustrends.com/power-requirements-ai-data-centers/">techplustrends.com › power - requirements - ai - data - centers Power Requirements for AI Data Centers (2026): Complete Guide</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI/ML`, `#model-architecture`, `#parameter-efficiency`, `#reasoning-capabilities`
+**标签**: `#ai-infrastructure`, `#data-centers`, `#nvidia`, `#cloud-computing`, `#tech-business`
 
 ---
 
 <a id="item-4"></a>
-## [DeepSeek 发布 DSpark，一个推测解码框架，在对比 MTP-1 时使 DeepSeek-V4 每用户生成速度提升 60–85%](https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/) ⭐️ 7.0/10
+## [行业高管质疑马斯克的轨道数据中心愿景](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/) ⭐️ 6.0/10
 
-DeepSeek 发布了 DSpark，这是一个开源的推测解码框架。它通过专门的草稿模块架构和自适应验证机制，实现了显著的每用户生成加速效果。
-
-rss · MarkTechPost · 6月27日 16:59
-
-**标签**: `#LLM inference`, `#speculative decoding`, `#deep learning optimization`, `#AI systems`, `#open source`
-
----
-
-<a id="item-5"></a>
-## [硅谷 AI 高管支持特朗普后现在要求监管](https://thenextweb.com/news/silicon-valley-ai-regulation-trump-biden-irony-framework) ⭐️ 7.0/10
-
-据 Politico 报道，曾为特朗普总统竞选提供资金支持的前沿 AI 公司高管们现在要求建立正式的人工智能监管框架。这些行业领袖表示，当前政府对于模型治理的非正式和临时方法比拜登时期的政策更为成问题。 这种转变凸显了人工智能治理的复杂政治经济学，揭示了行业利益相关者如何基于对监管有效性的感知而非意识形态一致性来战略性地定位自己。从反对监督到寻求正式规则的变化可能会显著影响未来的监管方法以及科技公司与政府机构之间的关系。 行业对结构化监管框架的偏好表明高管们优先考虑可预测的合规机制，以在日益受到审查的技术环境中提供确定性。前沿 AI 公司特别关注建立清晰的问责标准来指导先进模型负责任的发展。
-
-rss · The Next Web AI · 6月27日 15:54
-
-**背景**: 随着人工智能系统日益复杂且社会影响不断扩大，AI 治理已成为一项关键的政策挑战。这场辩论的核心在于平衡创新与负责任的发展，需要建立既能解决安全关切又能促进技术持续进步的框架。全球存在不同的方法，从全面的欧盟《人工智能法案》到较轻的 NIST 框架等模式。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.ai21.com/knowledge/ai-governance-frameworks/">www.ai21.com › knowledge › ai -governance- frameworks 9 Key AI Governance Frameworks in 2025 - AI21</a></li>
-<li><a href="https://elevateconsult.com/insights/ai-governance-frameworks-overview-which-model-is-right/">elevateconsult.com › insights › ai -governance- frameworks AI Governance Frameworks Compared 2026 | Elevate Consult</a></li>
-
-</ul>
-</details>
-
-**标签**: `#ai-regulation`, `#tech-policy`, `#silicon-valley`, `#political-economy`
-
----
-
-<a id="item-6"></a>
-## [俄黑客利用钓鱼窃取 Signal 备份密钥，FBI 发出警告](https://thenextweb.com/news/fbi-russian-hackers-signal-backup-recovery-key-unc5792) ⭐️ 7.0/10
-
-联邦调查局和网络安全与基础设施安全局发出新警告，称俄罗斯情报黑客正通过钓鱼活动窃取 Signal 用户的备份恢复密钥，使他们能够读取加密消息，即使受害者更换设备也是如此。这代表了对已在全球范围内入侵数千个账户的攻击的升级。 这种威胁通过针对用户必须自行保护的重建机制，削弱了 Signal 端到端加密的核心承诺。数百万注重隐私的用户面临通过这种复杂的社会工程学方法拦截消息的风险。 黑客冒充官方 Signal 支持人员，诱骗用户泄露其 64 位恢复密钥，从而获得加密消息档案的完全访问权限。该密钥始终保留在用户设备上，不会存储在任何服务器上。
-
-rss · The Next Web AI · 6月27日 15:15
-
-**背景**: Signal 采用端到端加密技术，确保消息在传输过程中始终处于加密状态，每个设备都存储一个恢复密钥以便在不同手机上重新访问。这种安全模型要求用户自行管理备份凭证，无需平台干预。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://support.signal.org/hc/en-us/articles/9708267671322-Signal-Secure-Backups">support. signal .org › hc › en-us Signal Secure Backups – Signal Support</a></li>
-<li><a href="https://keepnetlabs.com/blog/what-is-end-to-end-encryption-everything-you-need-to-know">keepnetlabs.com › blog › what-is- end - to - end - encryption End-to-End Encryption: How It Works & Why It’s Important -...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#cybersecurity`, `#signal-messaging`, `#state-sponsored-hacking`, `#security-alerts`, `#privacy`
-
----
-
-<a id="item-7"></a>
-## [行业领袖质疑马斯克轨道数据中心愿景](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/) ⭐️ 6.0/10
-
-软银 CEO 及其他行业领袖对埃隆·马斯克的轨道数据中心网络可行性表示怀疑，挑战了这一太空基础设施项目周围的广泛炒作。 这些主要行业参与者的质疑表明，投机性大型项目面临的审查超出了硅谷的热情范围，可能会影响太空计算的投资决策和技术发展时间表。 轨道数据中心概念需要发射成本大幅降低至当前水平以下，同时必须克服资源管理和极端太空环境下的系统可靠性等技术挑战。
+科技媒体 TechCrunch 报道，包括软银首席执行官在内的行业高管对埃隆·马斯克的轨道数据中心项目表达了怀疑态度，尽管该计划受到了广泛的媒体报道。 主要投资者和行业领导者的怀疑态度表明，人们对轨道数据中心基础设施作为真实技术领域的可行性、时间表和商业可持续性存在真正的担忧。 文章强调，虽然这一概念代表了云计算和边缘处理的新型基础设施，但行业领导者质疑马斯克的特定愿景是否能如期实现。
 
 rss · TechCrunch AI · 6月27日 20:42
 
-**背景**: 太空计算代表一项前沿技术，可能为全球数据处理降低延迟，但需要解决轨道上电力生成和温度调节等复杂工程问题。这一概念设想卫星搭载服务器基础设施来在数据源头附近处理数据，消除地面中继的延迟。
+**背景**: 太空数据中心是提议在太阳同步轨道或其他轨道上构建人工智能和计算基础设施的概念，利用太空太阳能和高性能计算。随着小型卫星、可重复使用运载火箭以及边缘计算的进步，21 世纪人们对这一领域重新产生了兴趣，用于低延迟的地球观测数据处理。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Space-based_data_center">en.wikipedia.org › wiki › Space-based_data_center Space-based data center - Wikipedia</a></li>
-<li><a href="https://www.brookings.edu/articles/orbital-data-centers-feasibility-gap-is-a-governance-risk/">www.brookings.edu › articles › orbital - data -centers Orbital data centers’ feasibility gap is a governance risk</a></li>
 
 </ul>
 </details>
 
-**标签**: `#space-infrastructure`, `#elon-musk`, `#cloud-computing`, `#tech-skepticism`
+**标签**: `#cloud-computing`, `#space-tech`, `#startup-hype`, `#infrastructure`
+
+---
+
+<a id="item-5"></a>
+## [检方在洛杉矶致命野火纵火案中采用 ChatGPT 日志作为证据](https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial) ⭐️ 6.0/10
+
+在洛杉矶一场致命的野火纵火审判中，检方除了展示被告的 iPhone 位置数据和安全摄像头录像等传统数字取证证据外，还提交了其 ChatGPT 使用日志。该案涉及乔纳森·林德克内希特，他被指控于 2025 年元旦点燃了一场火灾，这场大火成为洛杉矶历史上最致命的野火之一。 该案标志着 AI 对话记录从私人数字互动转变为潜在的法律证据，引发了关于隐私权的重要问题，以及法院将如何评估这些新兴数据源。 检方将这些 ChatGPT 日志作为补充证据来佐证其他数字痕迹，尽管 AI 聊天历史的可采性法律先例仍然不确定且不断发展。
+
+rss · The Verge AI · 6月28日 14:12
+
+**背景**: 数字取证涉及从智能手机等电子设备中提取数据以支持法律调查，法院越来越多地接受 AI 聊天日志作为可发现的材料。马斯克诉 OpenAI 案确立了数字对话可以作为诉讼证据的原则。这场审判展示了技术中介的记录如何成为证据格局的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://factually.co/fact-checks/justice/admissibility-ai-chat-logs-evidence-authenticity-voluntariness-standards-8b6cdd">Have Courts Admitted AI Chat Logs as Evidence, and Wha...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#legal-tech`, `#privacy`, `#forensics`
+
+---
+
+<a id="item-6"></a>
+## [财富不平等通过'几乎无家可归'子版块故事显现](https://www.wired.com/story/the-almost-homeless-subreddit-is-a-stark-glimpse-at-soaring-wealth-inequality/) ⭐️ 6.0/10
+
+Wired 发布了一篇关于'几乎无家可归'子版块的文章，该版块收录了人们在有限资源下应对财务困境的故事和建议。这篇文章通过个人生存策略展示了财富不平等现象。 这一社会学观察揭示了财富集中如何影响普通人的日常生活和生存策略。文章将宏观经济趋势与个人财务不安全感联系起来，展示了经济结构变化对个体生活的具体影响。 该子版块作为一个实用资源，经济脆弱的人们在此分享如何最大化有限收入并避免无家可归的建议。内容反映了接近财务稳定边缘的人所承受的真实经济压力。
+
+rss · WIRED · 6月28日 11:00
+
+**背景**: 财富不平等指最富和最穷社会阶层之间的差距扩大，亿万富翁积累了不成比例的财富，而许多人面临财务不稳定。'几乎无家可归'子版块成为一个社区，经济边缘的人们在此分享用最少资源维持稳定的实用策略。
+
+**标签**: `#wealth-inequality`, `#socioeconomics`, `#social-commentary`, `#technology-media`
+
+---
+
+<a id="item-7"></a>
+## [中国灵晟超算不用 GPU 登顶世界第一](https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/) ⭐️ 6.0/10
+
+中国灵晟超算被排名为全球最快，在不使用任何 GPU 组件的情况下实现了这一里程碑。该系统以约 2 exaflop 的计算能力运行，采用完全国产的芯片和系统设计。 这一成就表明高性能计算可以通过超越 GPU 依赖的替代架构发展，挑战了 GPU 对顶级超算性能至关重要的假设。它还凸显了中国在先进芯片获取受限背景下追求技术自主的努力。 灵晟系统采用 BullSequana XH3000 平台和 JUPITER 增强技术，代表了一种避免传统 GPU 加速的定制架构。这种方法优先考虑不同的计算路径来实现 exascale 性能指标。
+
+rss · WIRED · 6月28日 09:00
+
+**背景**: 超算通过每秒浮点运算次数衡量性能，exascale 系统每年能执行 10 的 18 次方次计算。虽然 GPU 因 AI 工作负载的并行处理效率而在近期排名中占主导，但该系统探索了替代的计算策略。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.top500.org/news/lineshine-debuts-no-1-top500-enters-new-global-exascale-era/">www.top500.org › news › lineshine -debuts-no-1-top500-enters LineShine Debuts at No. 1 as the TOP500 Enters a New Global...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/LineShine">en.wikipedia.org › wiki › LineShine LineShine - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#supercomputing`, `#HPC`, `#systems-architecture`, `#geopolitics`, `#performance`
 
 ---
 
 <a id="item-8"></a>
-## [苹果 Vision Pro 高管加入 OpenAI 硬件团队](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) ⭐️ 6.0/10
+## [人工智能必须从聊天机器人进化为能完成任务的数字同事](https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/) ⭐️ 6.0/10
 
-苹果 Vision Pro 高管 Paul Meade 离职，将加入 OpenAI 领导硬件开发工作。这是两家科技巨头间的重要人事变动。 这一高管变动凸显了空间计算、人工智能和先进硬件开发的行业融合趋势。表明追求下一代计算体验的公司间合作正在加强。 这一人事变动标志着两家公司硬件战略的重要转折，Meade 在 Vision Pro 的积累可能影响 OpenAI 的设备开发方向。
+腾讯研究人员发表了一项调查论文，认为人工智能系统必须从聊天机器人进化为能完成完整任务的数字同事，而不仅仅是生成答案。该研究强调持久工作空间与可复用技能相结合是实现这一转变的关键。 这一观点的重要性在于它指出了人工智能代理成为实用工作工具的关键研究方向。从生成答案到完成任务的转变，代表了专业人士与 AI 系统互动和依赖方式的根本性变化。 该研究强调关键在于将持久工作空间与可复用技能相结合，使人工智能代理能够在多个会话中保持上下文并应用已习得的能力。这种方法使代理能够像真正的员工一样运作——拥有自己的工作空间，并能从上次离开的位置继续工作。
 
-rss · TechCrunch AI · 6月27日 16:45
+rss · The Decoder · 6月28日 12:51
 
-**背景**: 空间计算通过先进显示和交互技术创造沉浸式数字体验，苹果 Vision Pro 是这一领域的先驱。OpenAI 正从纯软件向硬件开发拓展，为跨行业创新开辟新路径。
+**背景**: 聊天机器人是一种对话式人工智能系统，主要用生成的答案响应用户问题，通常不保持长期上下文或执行超出对话范围的操作。相比之下，人工智能代理可以自主地在持久环境中规划和执行多步骤任务，随时间管理自己的状态和资源。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://builtin.com/articles/openai-device">builtin.com › articles › openai -device OpenAI’s New Device: What We Know So Far | Built In</a></li>
+<li><a href="https://github.com/AIOSAI/AIPass">github.com › AIOSAI › AIPass GitHub - AIOSAI/AIPass: Persistent Agent Workspace — AI agents... Images amitray.com › claude-folder-structure-guide The Anatomy of a Claude Folder: The Ultimate 2026 AI Workspace... www. persistent .com › ai Enterprise AI Transformation with the 3C Framework: Core, Context... jamesross. ai James Ross — AI Agent Workspace Architect deeptechstars.substack.com › p › persistent -agent-workspaces Persistent Agent Workspaces, explained - plus Anthropic's fix for...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#hardware`, `#ai-ml`, `#industry-news`, `#executive-moves`
+**标签**: `#AI Agents`, `#Machine Learning`, `#Software Engineering`, `#Human-AI Collaboration`
 
 ---
 
 <a id="item-9"></a>
-## [欧几里得望远镜发布银河系中心最详细图像](https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/) ⭐️ 6.0/10
+## [Coinbase 加入中国 AI 模型热潮，西方实验室面临定价压力测试](https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/) ⭐️ 6.0/10
 
-欧几里得空间望远镜发布了银河系中心最详细的图像，捕捉了超过 6000 万颗恒星。 这张详细图像帮助天文学家更好地理解银河系中心的结构和密度，为更广泛的宇宙学研究做出贡献。 该图像展示了恒星在极小区域内的高度密集分布，体现了望远镜卓越的光学性能和成像能力。
+Coinbase 通过将流量自动路由至 GLM 5.2、Kimi 2.7 等中国 AI 模型，并将缓存命中率从 5%提升至 60%，成功将 AI 基础设施成本降低一半。
 
-rss · WIRED · 6月28日 09:30
+rss · The Decoder · 6月28日 12:14
 
-**背景**: 欧几里得是欧洲空间局主导的宇宙测绘项目，旨在观测数十亿个星系并深入研究暗能量与暗物质的本质。该望远镜将通过观测距离达 100 亿光年的区域，绘制宇宙大尺度结构的详细地图。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Euclid_(spacecraft)">en.wikipedia.org › wiki › Euclid_(spacecraft) Euclid (space telescope) - Wikipedia</a></li>
-<li><a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid">www.esa.int › Science_Exploration › Space_Science ESA - Euclid - European Space Agency</a></li>
-
-</ul>
-</details>
-
-**标签**: `#astronomy`, `#space-science`, `#euclid-telescope`, `#galactic-center`, `#science-news`
+**标签**: `#ai-infrastructure`, `#cost-optimization`, `#llm-routing`, `#chinese-ai`, `#enterprise-ml`
 
 ---
 
 <a id="item-10"></a>
-## [安全周报：LastPass 数据泄露、Bolton 认罪、微软打击恶意软件](https://www.wired.com/story/security-news-this-week-lastpass-users-had-their-data-stolen-again/) ⭐️ 6.0/10
+## [中国网络安全公司 360 推出 AI 安全工具与 Mythos 竞争](https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/) ⭐️ 6.0/10
 
-本周安全新闻汇总涵盖了 LastPass 数据泄露的持续争议、前国家安全顾问 John Bolton 在机密材料案件中的认罪，以及微软针对恶意软件的打击行动。 安全专业人士和用户需要关注这些事件，因为它们揭示了密码管理系统的持续漏洞、涉及机密信息处理的法律挑战，以及凭证窃取技术的不断演变。 汇总强调了微软在瓦解恶意软件网络中的积极作用，以及 LastPass 用户反复遭遇的安全问题，同时指出 Bolton 的法律案件涉及机密材料处理不当。
+中国网络安全公司 360 推出了两款旨在与 Anthropic 未发布的 Mythos 模型竞争的新 AI 安全工具。创始人周鸿祎透露，其中一款工具自部署以来已经标记了 3,432 个漏洞。 这一声明标志着美中在 AI 安全领域的竞争加剧，并引入了'网络核威慑'这一新颖的地缘政治框架来描述战略对抗。此举表明中国正在通过建立自己的技术威慑能力来应对西方感知到的网络安全威胁。 周鸿祎承认中国 AI 模型目前落后西方同行约 20 到 30%，但仍将这些工具定位为战略必需品。他将 Mythos 直接比作'网络核武器'，为建立中国的威慑能力提供了理由。
 
-rss · WIRED · 6月27日 10:30
+rss · The Decoder · 6月28日 09:30
 
-**背景**: 恶意软件是一种扫描计算机以获取个人身份信息如登录凭证和金融数据的恶意程序，然后将这些被盗信息发送给攻击者，他们经常在暗网市场出售这些数据。这类威胁是针对个人和组织最常见的网络犯罪形式之一。
+**背景**: Anthropic 的 Mythos 是一个作为 Claude 系统一部分开发的未发布 AI 模型，专家们认为其危险程度足以让 Anthropic 拒绝公开。网络核威慑概念将军事战略理论应用于网络安全领域，表明强大的进攻能力可以通过对等报复的威胁来防止攻击。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Infostealer">en.wikipedia.org › wiki › Infostealer Infostealer - Wikipedia</a></li>
+<li><a href="https://www.scientificamerican.com/article/what-is-mythos-and-why-are-experts-worried-about-anthropics-ai-model/">www.scientificamerican.com › article › what - is - mythos -and-why What is Mythos and why are experts worried about Anthropic’s AI...</a></li>
+<li><a href="https://aegisborne.com/nuclear-deterrence-and-cybersecurity-threats/">aegisborne.com › nuclear - deterrence -and- cybersecurity -threats The Interplay of Nuclear Deterrence and Cybersecurity Threats in...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#cybersecurity`, `#data-breaches`, `#threat-intelligence`, `#security-news`
+**标签**: `#AI Security`, `#Cybersecurity`, `#Geopolitics`, `#China-US Tech Competition`
 
 ---
 
 <a id="item-11"></a>
-## [摩根大通警示 AI 市场集中度风险](https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/) ⭐️ 6.0/10
+## [构建 Fable 5 Traces 数据集的 Colab 稳定工作流分析](https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/) ⭐️ 6.0/10
 
-摩根大通指出 AI 行业存在多重集中度风险，仅 42 家标普 500 公司贡献了 65 至 80%的总利润。该银行强调半导体市场模式类似历史泡沫形成，且杠杆芯片 ETF 自 2024 年初以来影响力增长五倍。 该分析对投资者和市场参与者具有重要意义，揭示了 AI 生态系统利润分布的潜在脆弱性。集中度风险可能影响投资组合多元化策略，若半导体市场遵循历史泡沫模式，还将产生更广泛的经济影响。 半导体牛市展现出互联网泡沫时期的技术模式，暗示类似的市场心理和投资者行为。杠杆芯片 ETF 自 2024 年初以来市场影响力具体增长五倍，表明该部门的激进配置。
-
-rss · The Decoder · 6月27日 13:22
-
-**背景**: 杠杆 ETF 是利用衍生品和债务放大基础指数收益的金融工具，既创造更高回报也带来更大潜在损失。互联网泡沫指 20 世纪末科技市场繁荣后的大幅调整，当时投资者热情超过了基本面支撑。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.investopedia.com/terms/l/leveraged-etf.asp">www.investopedia.com › terms › l Leveraged ETFs: The Potential for Big Gains—and Bigger Losses</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#fintech`, `#market-analysis`, `#investment`
-
----
-
-<a id="item-12"></a>
-## [最有可能自动化你工作的公司，现在正资助一项价值 10 亿美元的再培训计划](https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/) ⭐️ 6.0/10
-
-多家主要人工智能和云计算公司共同出资 10 亿美元，由前商务部长吉娜·雷蒙多领导，为应对 AI 驱动的就业替代而开展工人再培训项目。
-
-rss · The Decoder · 6月27日 12:25
-
-**标签**: `#AI`, `#workforce`, `#automation`, `#policy`, `#tech-ethics`
-
----
-
-<a id="item-13"></a>
-## [在 Colab 中构建稳定的 Fable 5 追踪工作流与工具调用解析](https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/) ⭐️ 6.0/10
-
-这篇教程展示了在 Google Colab 中处理 Hugging Face 的 Fable 5 追踪数据集的可靠工作流，涵盖 JSONL 解析、工具调用标准化、带秘密红队的数据审计以及使用纯 Python 进行朴素贝叶斯基线训练。 这篇实用指南解决了处理代理追踪数据的现实挑战，提供了 JSONL 解析、工具调用标准化和建立基线模型的技术，从业者可以直接应用到自己的工作流中。 该工作流通过手动解析合并的 JSONL 文件来避免脆弱的依赖关系，对工具调用进行标准化以确保一致性，并使用纯 Python 训练朴素贝叶斯基线模型而不依赖重型机器学习框架。
+这篇教程展示了如何在 Google Colab 中构建可复现的 Fable 5 Traces 数据集工作流，通过手动解析合并的 JSONL 文件并实现工具调用标准化。指南涵盖了数据审计、秘密红字处理、无 CoT 聊天数据集导出以及纯 Python Naive Bayes 基准训练。 这个工作流对于需要可靠、可复现管道来分析代理轨迹和构建推理模型基准的数据工程师和 MLOps 从业者具有重要意义。这篇教程通过在包含实际机器学习训练组件方面，超越了简单的手把手指南，增加了技术深度。 教程强调通过手动 JSONL 文件解析来避免脆弱的依赖关系，包含用于隐私合规的秘密红字处理，并使用额外的机器学习框架实现纯 Python Naive Bayes 分类器。它还导出适合微调应用的无 CoT 聊天数据集。
 
 rss · MarkTechPost · 6月28日 07:02
 
-**背景**: 代理追踪记录了 AI 系统与外部工具和 API 的交互方式，详细描述了执行复杂任务时发生的推理步骤、工具调用和数据转换。这些详细的日志使研究人员能够分析模型行为、识别决策模式并构建更可靠的代理系统用于生产环境。
+**背景**: Fable 5 Traces 是发布在 Hugging Face 上的一个紧凑的代码代理交互轨迹语料库，包含约 953 个 JSON 格式条目，具有思维链组件，采用 AGPL-3.0 许可证用于 LLM 行为分析。工具调用使语言模型能够通过函数调用来与外部系统接口，扩展其训练数据之外。思维链推理涉及模型的内部逐步问题解决过程，可以单独提取和检查。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://huggingface.co/datasets/Glint-Research/Fable-5-traces">huggingface.co › datasets › Glint-Research Glint-Research/Fable-5-traces · Datasets at Hugging Face</a></li>
-<li><a href="https://zylos.ai/research/2026-04-07-tool-use-function-calling-standards-benchmarks/">zylos. ai › research › 2026/04/07- tool -use-function-calling Tool Use and Function Calling in AI Agents - zylos.ai</a></li>
+<li><a href="https://martinuke0.github.io/posts/2026-01-07-the-anatomy-of-tool-calling-in-llms-a-deep-dive/">martinuke0.github.io › posts › 2026/01/07-the-anatomy-of- tool The Anatomy of Tool Calling in LLMs: A Deep Dive</a></li>
 
 </ul>
 </details>
 
-**标签**: `#fable-traces`, `#machine-learning-workflows`, `#data-engineering`, `#huggingface`
+**标签**: `#data-engineering`, `#mlops`, `#traces-datasets`, `#machine-learning-baselines`
+
+---
+
+<a id="item-12"></a>
+## [Liquid AI 发布 LFM2.5-230M，支持 llama.cpp、MLX、vLLM、SGLang 和 ONNX 实现端侧推理](https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/) ⭐️ 6.0/10
+
+Liquid AI 发布了 LFM2.5-230M，这是其专为端侧推理优化的最小模型，具备强大的指令跟随能力，表现优于更大的竞争对手。
+
+rss · MarkTechPost · 6月28日 04:58
+
+**标签**: `#edge-ai`, `#llm-inference`, `#machine-learning`, `#on-device-computing`
+
+---
+
+<a id="item-13"></a>
+## [渥太华大学研究人员开发利用可穿戴生物数据的 AI 治疗师](https://thenextweb.com/news/ubimytherapist-ai-smartwatch-mental-health-proactive) ⭐️ 6.0/10
+
+渥太华大学研究人员正在开发一款名为 UbiMyTherapist 的 AI 心理健康助手，该助手通过智能手表和耳机的生物数据主动检测用户压力，无需用户主动联系。该系统实时读取情感信号，颠覆了传统模式——即用户必须首先寻求帮助。 心理健康聊天机器人存在一个根本性局限——用户必须主动发起联系，这在压力或难以表达感受时尤为困难。这种主动方法解决了心理健康技术中真实存在的用户体验问题，使干预能够在压力加剧前更早发生。 该系统利用可穿戴设备的生物数据来检测情绪状态，基于研究表明脑电图生物识别能够更准确地识别情感。不过，这目前仍处于早期研究阶段，尚未实际应用。
+
+rss · The Next Web AI · 6月28日 16:19
+
+**背景**: 生物识别系统通过脑电图和面部表情分析等技术取得了显著进步，使情感识别更加复杂化。人工智能正越来越多地应用于预测性医疗模型中，通过分析这些数据流来早期发现健康模式。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.mdpi.com/2073-431X/14/8/299">www.mdpi.com › 2073-431X › 14/8/299 EEG-Based Biometric Identification and Emotion Recognition: An...</a></li>
+<li><a href="https://openforge.io/ai-predictive-analytics-in-healthcare-shaping-proactive-care-and-system-roi/">openforge.io › ai -predictive-analytics-in- healthcare -shaping AI Predictive Analytics in Healthcare: Shaping Proactive Care</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Mental Health Tech`, `#AI in Healthcare`, `#Wearable Computing`, `#Proactive Systems`
 
 ---
 
 <a id="item-14"></a>
-## [Liquid AI 推出 LFM2.5-230M，支持 llama.cpp、MLX、vLLM、SGLang 和 ONNX 实现设备端推理](https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/) ⭐️ 6.0/10
+## [美光股价飙升突破万亿美元市值，AI 内存需求推动增长](https://thenextweb.com/news/micron-1-27-trillion-valuation-ai-memory-wall-street) ⭐️ 6.0/10
 
-Liquid AI 发布了其最小的开源模型，拥有 2.3 亿参数，并在主要机器学习框架中实现了优化的设备端推理支持。
+美光科技股价一个月内飙升超过 236%，市值达到约 1.27 万亿美元，收盘价达每股 1,132 美元。该公司报告了强劲的第三季度业绩，营收同比四倍增长至 414.5 亿美元。 这一飙升反映了 AI 应用中内存芯片需求的增长，并表明支持 AI 基础设施繁荣的重大硬件投资需求。美光的业绩使其成为赋能下一代计算系统的半导体生态系统中的关键供应商。 在 2025 年中期之前，该股票花费数年时间以每股低于 100 美元的价格交易。季度营收 414.5 亿美元与去年同期相比实现了四倍增长。
 
-rss · MarkTechPost · 6月28日 04:58
+rss · The Next Web AI · 6月28日 15:52
 
-**标签**: `#small-language-models`, `#on-device-ai`, `#machine-learning-inference`, `#edge-computing`
-
----
-
-<a id="item-15"></a>
-## [Instagram 希望将算法自定义作为应用的核心部分，而非隐藏的选项](https://thenextweb.com/news/instagram-your-algorithm-central-experience-mosseri) ⭐️ 6.0/10
-
-Instagram 负责人 Adam Mosseri 宣布计划将算法自定义从隐蔽的设置提升为用户体验中的核心功能。
-
-rss · The Next Web AI · 6月28日 09:44
-
-**标签**: `#recommendation-systems`, `#social-media`, `#user-experience`, `#meta`
-
----
-
-<a id="item-16"></a>
-## [Salesforce 员工困惑公司为何在 Slack 内推广竞争对手产品](https://thenextweb.com/news/salesforce-employees-anthropic-claude-tag-slack-tension) ⭐️ 6.0/10
-
-Salesforce 员工表示，当公司开始在 Slack 中推广 Anthropic 的 Claude Tag——一款与其自家 Agentforce 平台直接竞争的 AI 产品时，他们感到十分困惑。
-
-rss · The Next Web AI · 6月28日 09:24
-
-**标签**: `#AI`, `#business-strategy`, `#enterprise-software`, `#competitive-dynamics`
-
----
-
-<a id="item-17"></a>
-## [微软提拔安德鲁领导 Copilot 并推出新代理式 Autopilot 功能](https://thenextweb.com/news/microsoft-copilot-andreou-nadella-ai-reset) ⭐️ 6.0/10
-
-雅各布·安德鲁被提拔领导微软 Copilot，管理超过 11000 名员工，并将消费级和企业级团队合并为统一组织。他正在构建一个集成平台，结合聊天、编码能力和新的代理工作流 Autopilot。 这一领导层变动标志着微软向更自主 AI 系统的战略转型，这些系统能够独立执行复杂工作流，可能彻底改变企业利用人工智能提升运营效率和生产力的方式。 安德鲁消除了重复的产品版本，并创建一个'超级应用'将多种 AI 能力整合到单一界面。新的 Autopilot 工作流代表代理行为，其中代理可以用最小用户输入执行多步骤任务。
-
-rss · The Next Web AI · 6月28日 09:08
-
-**背景**: 微软 Copilot 是公司旗舰 AI 倡议，为个人用户和企业团队提供跨文档、邮件和应用程序的对话式辅助。该平台已从基本的聊天机器人交互演变为更复杂的工具，旨在与微软生产力套件（包括 Office 应用）深度集成。
+**背景**: 内存芯片，特别是 DRAM（动态随机存取存储器），是现代计算系统中的关键组件，用于临时存储数据以便处理器快速访问。像人工智能这样的高性能应用需要专门的内存架构，如 HBM（高带宽内存），来高效处理大规模数据处理任务。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/do-more-with-ai/general-ai/understanding-ai-agents-vs-chatbots">www.microsoft.com › understanding- ai -agents-vs- chatbots Understanding AI Agents vs. Chatbots | Microsoft Copilot</a></li>
-<li><a href="https://mitsloan.mit.edu/ideas-made-to-matter/agentic-ai-explained">mitsloan.mit.edu › ideas-made-to-matter › agentic- ai -explained Agentic AI, explained - MIT Sloan</a></li>
-<li><a href="https://blogs.microsoft.com/blog/2025/04/28/how-agentic-ai-is-driving-ai-first-business-transformation-for-customers-to-achieve-more/">How agentic AI is driving AI-first business transformation for customers to achieve more</a></li>
+<li><a href="https://semiengineering.com/high-bandwidth-memory-hbm-everything-you-need-to-know/">semiengineering.com › high - bandwidth - memory - hbm -everything High Bandwidth Memory (HBM): Everything You Need To Know</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dynamic_random-access_memory">en.wikipedia.org › wiki › Dynamic_random-access_memory Dynamic random-access memory - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#Microsoft`, `#Enterprise Software`, `#Product Management`, `#Leadership`
+**标签**: `#semiconductors`, `#AI hardware`, `#market analysis`, `#memory technology`
 
 ---
 
-<a id="item-18"></a>
-## [云 flare 裁员 1100 人同时工程团队增长 45%](https://thenextweb.com/news/cloudflare-builders-sellers-measurers-engineering-surge-ai-layoffs) ⭐️ 6.0/10
+<a id="item-15"></a>
+## [印度 UPI 计划用 AI 推动日交易量从 7.5 亿到 10 亿](https://thenextweb.com/news/india-upi-npci-ai-billion-daily-transactions) ⭐️ 6.0/10
 
-云 flare 在五月裁减了 1100 个职位，但几周后工程团队人数增长 45%至 1894 人，根据 BNP 巴黎银行从领英档案获得的数据。CEO 马修·普林斯确认了这一选择性招聘策略，并表示这将成为行业普遍模式。 这种选择性招聘策略展示了科技公司如何战略性地保留和扩大关键技术角色，同时减少总人数。这在 AI 改变工程职位要求时尤为重要。 数据显示工作群体影响明显分化，工程角色显著增长而其他部门经历缩减。这种选择性模式与云 flare 对技术基础设施和产品开发的专注相一致，而非行政职能。
+印度国家支付公司(NPCI)首席执行官迪利普·阿斯贝宣布，人工智能技术将成为 UPI 日交易量从 7.5 亿增长到 10 亿的关键驱动力。 这展示了 AI 在金融基础设施中的大规模实际应用，证明了机器学习能够处理海量交易处理。 阿斯贝在孟买科技周期间向 TechCrunch 透露了这一消息，NPCI 监管的 UPI 系统目前每天处理超过 7.5 亿笔交易。
 
-rss · The Next Web AI · 6月27日 16:22
+rss · The Next Web AI · 6月28日 10:07
 
-**背景**: 云 flare 的策略反映了一个将组织角色分为三类的管理框架：创建产品的建设者、向客户营销的销售者，以及负责审计、财务、合规、运营和中级管理的测量者。这种区分很重要，因为 AI 和自动化可能对每种角色类型产生不同的影响。
+**背景**: UPI（统一支付接口）是印度国家支付公司开发的实时支付系统，支持全国范围内的银行间和移动钱包即时交易。
 
-**标签**: `#tech-industry`, `#hiring-layoffs`, `#workforce-management`, `#cloud-infrastructure`, `#ai-impact`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://razorpay.com/blog/ai-in-payments/">razorpay.com › blog › ai - in -payments AI in Payments: How AI is Transforming the Payments Industry? -...</a></li>
 
----
+</ul>
+</details>
 
-<a id="item-19"></a>
-## [东京一家初创企业和北京一家安全公司推出 AI 工具填补 Anthropic 出口禁令留下的空白](https://thenextweb.com/news/asian-ai-startups-mythos-alternatives-anthropic-export-ban) ⭐️ 6.0/10
-
-亚洲 AI 初创企业正推出竞争性模型作为替代方案，以应对 Anthropic 被禁出口的产品，预示着人工智能开发领域地缘政治碎片化的趋势。
-
-rss · The Next Web AI · 6月27日 12:52
-
-**标签**: `#AI geopolitics`, `#LLM competition`, `#export controls`, `#startup launches`, `#technical sovereignty`
+**标签**: `#payments`, `#UPI`, `#AI`, `#fintech`, `#financial-infrastructure`
 
 ---
 
-<a id="item-20"></a>
-## [NASA 测试用于深空任务的在轨加油装置](https://www.engadget.com/2203145/nasa-tests-in-orbit-refueling-device-deep-space-missions/) ⭐️ 6.0/10
+<a id="item-16"></a>
+## [苹果触控屏 MacBook 将搭载 M5 芯片而非传闻中的 M7](https://www.engadget.com/2203348/apple-touchscreen-macbook-launch-before-m7-chips/) ⭐️ 6.0/10
 
-美国国家航空航天局正在测试由 L3Harris 开发的低温耦合器设备，该装置使航天器能够在轨道上进行加油，以支持延长深空任务。
+根据供应链分析师马克·古尔曼的消息，苹果新款触控屏 MacBook 将搭载 M5 Pro 和 M5 Max 芯片，而非此前传闻的 M7 处理器。 这一发布时间表具有重要意义，显示了苹果对触控屏 MacBook 项目的承诺，也体现了 M 系列芯片开发的快速节奏。 M5 Pro 和 M5 Max 芯片采用了苹果全新的融合架构，将两个硅芯片封装集成到单个处理器中以提升性能。
 
-rss · Engadget · 6月27日 12:49
+rss · Engadget · 6月28日 16:20
 
-**标签**: `#aerospace`, `#propulsion`, `#space-missions`, `#satellite-technology`
+**背景**: 苹果自研的 ARM 架构系统级芯片为 Mac 产品线提供动力，从 2020 年 11 月推出的原始 M1 芯片开始。专业版的 M1 Pro 和 M1 Max 芯片于 2021 年 10 月推出，确立了不同性能层级的命名惯例。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Apple_silicon">en.wikipedia.org › wiki › Apple_silicon Apple silicon - Wikipedia</a></li>
+<li><a href="https://www.macrumors.com/guide/apple-silicon/">www.macrumors.com › guide › apple - silicon Apple Silicon: The Complete Guide - MacRumors developer. apple .com › documentation › apple - silicon Apple silicon | Apple Developer Documentation support. apple .com › en-us › 116943 Mac computers with Apple silicon arstechnica.com › gadgets › 2026 M5 Pro and M5 Max are surprisingly big departures from older... www.linkedin.com › pulse › apple - silicon -technical-history-m Apple Silicon: A Technical History of the M-Series, from M1 to M5 en.wikipedia.org › wiki › Apple_M1 Apple M1 - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Apple`, `#MacBook`, `#M-series chips`, `#hardware`, `#rumors`
 
 ---
