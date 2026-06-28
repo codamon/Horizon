@@ -2,12 +2,25 @@ services:
   horizon:
     build: .
     container_name: horizon
+    # Share the existing Ollama container network namespace so
+    # http://127.0.0.1:11434 inside Horizon reaches Ollama directly.
+    network_mode: "container:ollama"
     volumes:
       - ./data:/app/data
+      - ./docs:/app/docs
       - ./.env:/app/.env:ro
+    env_file:
+      - .env
     environment:
-      - TZ=UTC
+      TZ: ${TZ:-UTC}
+      HORIZON_OLLAMA_BASE_URL: http://127.0.0.1:11434
     restart: unless-stopped
-    # Run daily at 8:00 AM UTC (adjust as needed)
-    # For one-time run, use: docker compose run --rm horizon
-    command: ["--hours", "24"]
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - |
+        while true; do
+          echo "[$$(date -u +'%Y-%m-%dT%H:%M:%SZ')] Starting Horizon run";
+          uv run horizon --hours "$${HORIZON_HOURS:-24}" || echo "Horizon run failed with exit code $$?";
+          echo "[$$(date -u +'%Y-%m-%dT%H:%M:%SZ')] Sleeping for $${HORIZON_INTERVAL_SECONDS:-86400}s";
+          sleep "$${HORIZON_INTERVAL_SECONDS:-86400}";
+        done
